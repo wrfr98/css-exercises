@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: "Verdana", "DejaVu Sans", "Sans", sans-serif;
+} 
+
+.second {
+    font-size: 24px;
+}
+
+#id-one {
+    color: rgb(57, 57, 255);
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: rgb(128, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
